@@ -1,0 +1,6 @@
+C:\Users\dev\source\repos\CSharpEncStagerDLL\CSharpEncStagerDLL\obj\x64\Release\CSharpEncStagerDLL.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\CSharpEncStagerDLL\CSharpEncStagerDLL\obj\x64\Release\CSharpEncStagerDLL.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\CSharpEncStagerDLL\CSharpEncStagerDLL\bin\x64\Release\statiscics.dll
+C:\Users\dev\source\repos\CSharpEncStagerDLL\CSharpEncStagerDLL\bin\x64\Release\statiscics.pdb
+C:\Users\dev\source\repos\CSharpEncStagerDLL\CSharpEncStagerDLL\obj\x64\Release\statiscics.dll
+C:\Users\dev\source\repos\CSharpEncStagerDLL\CSharpEncStagerDLL\obj\x64\Release\statiscics.pdb
